@@ -1,0 +1,50 @@
+1,5 Star,5,85
+2,Dairy Milk,10,91
+3,Lays Chips,200,300
+4,Pepsi,15,250
+5,Coke,20,180
+6,Sprite,18,160
+7,Fanta,17,140
+8,Mountain Dew,22,130
+9,Thumbs Up,19,145
+10,Mirinda,21,155
+11,Appy Fizz,25,120
+12,Slice,23,105
+13,Mazaa,24,115
+14,Bovonto,20,90
+15,Oreo,30,200
+16,Hide & Seek,25,180
+17,Good Day,28,170
+18,Parle-G,10,300
+19,Bourbon,35,140
+20,Krackjack,15,250
+21,Jim Jam,32,130
+22,Marie Gold,18,275
+23,Perk,12,210
+24,Munch,10,225
+25,KitKat,15,220
+26,Snickers,40,150
+27,Nutella,90,80
+28,Amul Butter,52,100
+29,Amul Cheese,65,95
+30,Britannia Cake,20,160
+31,Little Debbie,35,85
+32,Cornitos Nachos,50,140
+33,Kurkure,20,190
+34,Bingo Mad Angles,22,170
+35,Maggi,14,250
+36,Top Ramen,12,240
+37,Yippee,13,230
+38,Saffola Oats,45,100
+39,Kellogg's Corn Flakes,55,80
+40,Nestle Milkmaid,120,60
+41,Sunfeast Pasta,35,90
+42,Real Juice,55,100
+43,Tropicana,60,95
+44,Lipton Iced Tea,45,85
+45,Nescafe,80,75
+46,Bru Instant Coffee,78,60
+47,Red Bull,110,50
+48,Monster Energy,115,45
+49,Glucon-D,35,46
+50,Horlicks,130,55
