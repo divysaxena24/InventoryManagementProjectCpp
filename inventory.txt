@@ -47,4 +47,4 @@
 47,Red Bull,110,50
 48,Monster Energy,115,45
 49,Glucon-D,35,46
-50,Horlicks,130,55
+50,Horlicks,130,50
