@@ -101,7 +101,7 @@ public:
 
         products.clear();
         string line;
-
+        
         while (getline(fin, line)) {
             if (line.empty() || line.find('+') != string::npos || line.find("ID") != string::npos)
                 continue;
